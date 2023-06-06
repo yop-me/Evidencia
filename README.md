@@ -17,7 +17,7 @@
  2.En caso de que no se ingresen los datos correctos, el programa retorna al ingreso de credenciales.
  
  3.Una vez ingresadas las credenciales correctas, el programa muestra el menu principal, el cual contiene tres opciones: 
-  -Dar de alta (pacientes o doctoreS), crear cita, y salir del programa.
+  -Dar de alta (pacientes o doctores), crear cita, y salir del programa.
  
  4. Si se quiere dar de alta un paciente o doctor, se selecciona la opcion de dar de alta, seguido se selecciona si es paciente o doctor,   despues se guarda en el 
   sistema.
