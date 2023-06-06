@@ -22,8 +22,7 @@
  4. Si se quiere dar de alta un paciente o doctor, se selecciona la opcion de dar de alta, seguido se selecciona si es paciente o doctor,   despues se guarda en el 
   sistema.
  
- 5. Para la opcion de crear cita, se ingresa la fecha de la cita, se ingresa el nombre del paciente, si el nombre es incorrecto, arrojara   un mensaje que es necesario
-  ingresar un nombre guardado en el sistema y regresará al menu principal.
+ 5. Para la opcion de crear cita, se ingresa el ID a asignar, seguido se ingresa la fecha y hora de la cita, despues el motivo de la consulta y al final se ingresa el nombre del paciente, si   el nombre es incorrecto, arrojara un mensaje haciendole saber al usuario que es necesario ingresar un nombre guardado en el sistema y regresará al menu principal.
  
   Si es correcto el ingreso del nombre del paciente, permitirá seleccionar un doctor para este y finalizará el proceso guardando la cita
   en el sistema.
